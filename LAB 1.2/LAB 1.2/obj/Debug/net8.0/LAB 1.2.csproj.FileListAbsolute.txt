@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.exe
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.deps.json
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.runtimeconfig.json
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.dll
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.pdb
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.AssemblyInfoInputs.cache
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.AssemblyInfo.cs
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.dll
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\refint\LAB 1.2.dll
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.pdb
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.genruntimeconfig.cache
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\ref\LAB 1.2.dll
+=======
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.exe
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.deps.json
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.runtimeconfig.json
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.dll
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\bin\Debug\net8.0\LAB 1.2.pdb
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.AssemblyInfoInputs.cache
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.AssemblyInfo.cs
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.dll
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\refint\LAB 1.2.dll
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.pdb
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\LAB 1.2.genruntimeconfig.cache
+C:\Users\HELLO\Downloads\Bài Tập\LAB 1.2\LAB 1.2\obj\Debug\net8.0\ref\LAB 1.2.dll
+>>>>>>> 08c81bc (fisrt commit)
